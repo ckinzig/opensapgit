@@ -1,2 +1,2 @@
 # opensapgit
-[openSAP](http://opensap.com) Git Tutorial
+OpenSAP Git Tutorial
